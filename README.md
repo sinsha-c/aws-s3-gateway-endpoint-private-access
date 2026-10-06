@@ -111,7 +111,7 @@ Expected result: the command **hangs / times out** (no route to S3).
 
 **eice-sg**
 
-<img src="screenshots/eice-sg.png.png" alt="eice sg" width="800">
+<img src="screenshots/eice-sg.png" alt="eice sg" width="800">
 
 ---
 
